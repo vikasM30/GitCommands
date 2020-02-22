@@ -24,3 +24,15 @@ first > second > third commits
 but you find you made a wrong commit in third commit, and you want to switch to second commit
 git checkout <gitCommitID> -- <file>
 and then re commit it again.
+
+git push (to push on repository)
+
+To push your work to github repository through terminal
+
+step1: git init
+step2: git commit -m 'message'
+step3: git remote add <nick_name_to_GithubRepo_Link> GithubRepo_Link
+step4: git push -u <nick_name_to_GithubRepo_Link> <branch>
+
+
+
