@@ -35,4 +35,7 @@ step3: git remote add <nick_name_to_GithubRepo_Link> GithubRepo_Link
 step4: git push -u <nick_name_to_GithubRepo_Link> <branch>
 
 
+Head => it points to the last commit made
+First one is your Working Directory which holds the actual files. Second one is the Index which acts as a staging area and finally the HEAD which points to the last commit you’ve made.
+
 
