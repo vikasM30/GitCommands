@@ -16,3 +16,11 @@ git mv <file1> <file2> (rename from file1 to file2)
 git mv <file1> <Folder>/<file2> (rename and mv from file1 to inside Folder/file2)
 git checkout -- <File> ("DISCARD" changes in the working area => here we undo the changes made by anyone by replacing it by repository file [i.e., CHECKOUT => take something from repository and make it your working copy], **file must not have not been commited.)
 git reset Head <file> (to unstage a file, i.e., if you have added files to stagging area [git add .] and later you found that you have done wrong something.)
+
+Getting older version from the repository
+
+If you have done,
+first > second > third commits
+but you find you made a wrong commit in third commit, and you want to switch to second commit
+git checkout <gitCommitID> -- <file>
+and then re commit it again.
