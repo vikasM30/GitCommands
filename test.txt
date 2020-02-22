@@ -1,0 +1,15 @@
+git commands
+RULE => (working copy => staging area => repository)
+
+git init
+git add . (adding to staging area)
+git commit -m "first commit" when moving from working copy to staging area)
+git commit -am "first commit" (when moving from working copy to directly to repository, **only in case of simple edits and modification and not renames)
+git log (to view git history)
+git log --author="vikasM30"
+git status
+git restore --staged <file>
+git diff (shows the differences to local to staging area)
+git diff --staged (shows the differences to staging area to repository)
+git mv <file1> <file2> (rename from file1 to file2)
+git mv <file1> <Folder>/<file2 (rename and mv from file1 to inside Folder/file2)
