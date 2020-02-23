@@ -1,0 +1,89 @@
+[33mcommit 464daeb0bca4c2447f1b49dd60604f8ff990d4a0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mgitRepos/master[m[33m)[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sun Feb 23 03:10:46 2020 +0530
+
+    head explained.
+
+M	test.txt
+
+[33mcommit 89fac3c2da8b417e12ffa898ecca5d349656de52[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sun Feb 23 02:09:16 2020 +0530
+
+    upload through terminal to Github Repo
+
+M	test.txt
+
+[33mcommit 300bef70a58eae54bfe3fc760455c16bfb5f1fae[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sun Feb 23 01:49:38 2020 +0530
+
+    get old version from repository
+
+M	test.txt
+
+[33mcommit c7cfced71aad10d98fa92491baee014162527531[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sun Feb 23 00:33:37 2020 +0530
+
+    checkout vs restore
+
+M	test.txt
+
+[33mcommit 901082803dd586f5474f9480d761f8640ec958d1[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sun Feb 23 00:17:38 2020 +0530
+
+    checkout file example
+
+M	test.txt
+
+[33mcommit 5d5c613e139fd2ffcf2bffebba5ad7e70bfb9cbf[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sun Feb 23 00:08:57 2020 +0530
+
+    changes new
+
+M	test2
+
+[33mcommit b71e27e65c7395c83d4cfe8e13dee1712ba15157[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sun Feb 23 00:07:36 2020 +0530
+
+    changes
+
+M	test.txt
+
+[33mcommit e7960966be97f297e1551daaa6e76e318f984a1c[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sat Feb 22 23:55:18 2020 +0530
+
+    from working copy to repository directly
+
+R100	Landing/landing	Landing/index
+
+[33mcommit 4932eeb05aced08ce357b4c733fb0c6fe1111979[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sat Feb 22 23:53:09 2020 +0530
+
+    from working copy to repository directly
+
+M	test.txt
+A	test2
+
+[33mcommit b4b9daee8f30dde64df487236d82a3df27d1e894[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sat Feb 22 23:47:54 2020 +0530
+
+    from working copy to repository directly
+
+M	Landing/landing
+
+[33mcommit 005f6c6b4d793c6f2d00d31162324a22d871abee[m
+Author: vikasM30 <mishraviki.mishra@gmail.com>
+Date:   Sat Feb 22 23:44:59 2020 +0530
+
+    moved to repositor on github
+
+A	Landing/landing
+A	test.txt
